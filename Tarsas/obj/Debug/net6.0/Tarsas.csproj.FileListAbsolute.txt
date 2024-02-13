@@ -1,0 +1,15 @@
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\bin\Debug\net6.0\Tarsas.exe
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\bin\Debug\net6.0\Tarsas.deps.json
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\bin\Debug\net6.0\Tarsas.runtimeconfig.json
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\bin\Debug\net6.0\Tarsas.dll
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\bin\Debug\net6.0\Tarsas.pdb
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.csproj.AssemblyReference.cache
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.AssemblyInfoInputs.cache
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.AssemblyInfo.cs
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.csproj.CoreCompileInputs.cache
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.dll
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\refint\Tarsas.dll
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.pdb
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\Tarsas.genruntimeconfig.cache
+C:\Users\nagy.martin.mark\Desktop\Felveteli\WPF\Tarsas\Tarsas\obj\Debug\net6.0\ref\Tarsas.dll
